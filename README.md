@@ -5,10 +5,9 @@
 Welcome to my profile! 
 My name is Victoria Choi and I am currently a 2nd year student at Georgia Tech studying computer science with specialized threads in Information Internetworks and Media.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👩🏻‍💻 Software Development Projects:</h2>
 
-- <b>Project Name (language)</b>
-  - [project git link](https://github.com/joshmadakor1/Algorithms-Practice)
+- [MultiBot!](https://github.com/victoria4318/MultiBot)
  
 <h2>📚 Coursework</h2>
 
