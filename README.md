@@ -2,9 +2,7 @@
 
 <h2>👾 Overview</h2>
 
-- Georgia Institute of Technology (sophomore)
-- Major: Computer Science
-  - Threads: Information Internetworks, Media
+I am a current 2nd year student at the Georgia Institute of Technology studying Computer Science with focused threads on Information Internetworks and Media.
 
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
