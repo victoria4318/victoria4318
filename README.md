@@ -2,8 +2,9 @@
 
 <h2>👾 Overview</h2>
 
-Welcome to my profile! 
-My name is Victoria Choi and I am currently a 2nd year student at Georgia Tech studying computer science with specialized threads in Information Internetworks and Media.
+- Georgia Institute of Technology (sophomore)
+- Major: Computer Science
+  - Threads: Information Internetworks, Media
 
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
