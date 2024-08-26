@@ -8,12 +8,14 @@ I am a current 2nd year student at the Georgia Institute of Technology studying 
 
 - [MultiBot!](https://github.com/victoria4318/MultiBot)
 - [Automated File Organizer](https://github.com/victoria4318/Automated-File-Organizer)
+- [Simple Airline Management System (SAMS)](https://github.com/victoria4318/Simple-Airline-Management-System-SAMS-)
  
 <h2>📚 Coursework</h2>
 
 - <b> Current Related Courses </b>
   - CS 2340 Objects and Design
   - CS 1332 Data Structures and Algorithms
+  - CS 2110 Computer Organization and Programming
 - <b> Past Related Courses </b>
   - CS 1331 Intr to Object-Oriented Programming
   - CS 4400 Intr to Database Systems
