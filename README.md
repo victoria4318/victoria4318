@@ -2,7 +2,7 @@
 
 <h2>👾 Overview</h2>
 
-I am a current 2nd year student at the Georgia Institute of Technology studying Computer Science with focused threads on Information Internetworks and Media.
+I am a current 2nd year student at the Georgia Institute of Technology studying Computer Science with focused threads on Information Internetworks and Cybersecurity.
 
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
